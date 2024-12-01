@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Making Change Problem solving"""
+"""Making Change Problem"""
 
 
 def makeChange(coins, total):
